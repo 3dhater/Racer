@@ -1,4 +1,4 @@
-This is copy of source code from racel.nl project.
+This is copy of source code from http://www.racer.nl/ project.
 
 For study only.
 
